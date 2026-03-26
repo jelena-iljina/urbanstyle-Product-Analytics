@@ -1,4 +1,4 @@
-# urbanstyle-Sales-Analytics -- UrbanStyle.ltd Andmemeeskond
+# Urbanstyle-Sales-Analytics -- UrbanStyle.ltd Andmemeeskond
    ## Meeskonnaliikmed
    | Nimi | Roll (Nädal 1) | OS |
 |------|-----------------|----|

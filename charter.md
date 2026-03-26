@@ -1,10 +1,12 @@
 TEAM CHARTER — [UrbanStyle Sales Analytics]
 
 LIIKMED:
-1. Jelena Iljina (OS: Win)  Roll nädal 1: GitHub Repo Seadistaja
-2. Vladimir Gorbatjuk (OS: Win)  Roll nädal 1: Supabase Seadistaja
-3. Maris Eenmaa (OS: Win)  Roll nädal 1: NotebookLM Seadistaja
-4. Urmas Tammekun (OS: Win / Mac)  Roll nädal 1: Team Charter Koostaja
+| Nimi | Roll (Nädal 1) | OS |
+|------|-----------------|----|
+| Jelena Iljina | GitHub Repo Seadistaja | Win |
+| Vladimir Gorbatjuk | Supabase Seadistaja | Win |
+| Maris Eenmaa | NotebookLM Seadistaja | Win |
+| Urmas Tammekun | Team Charter Koostaja | Win |
 
 ÜHISED TÖÖRIISTAD:
 Suhtluskanal: Google Workspace Chat

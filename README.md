@@ -1,4 +1,4 @@
-# urbanstyle-Product-Analytics -- UrbanStyle.ltd Andmemeeskond
+# urbanstyle-Sales-Analytics -- UrbanStyle.ltd Andmemeeskond
    ## Meeskonnaliikmed
    | Jelena Iljina | GitHub Repo Seadistaja | Win |
    | Vladimir Gorbatjuk | Supabase Seadistaja | Win |

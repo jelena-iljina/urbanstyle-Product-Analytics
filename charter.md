@@ -1,4 +1,4 @@
-TEAM CHARTER — [UrbanStyle Product Analytics]
+TEAM CHARTER — [UrbanStyle Sales Analytics]
 
 LIIKMED:
 1. Jelena Iljina (OS: Win)  Roll nädal 1: GitHub Repo Seadistaja
@@ -7,18 +7,18 @@ LIIKMED:
 4. Urmas Tammekun (OS: Win / Mac)  Roll nädal 1: Team Charter Koostaja
 
 ÜHISED TÖÖRIISTAD:
-Suhtluskanal: Google Meets (Google Workspace Chat)
-GitHub repo:  urbanstyle-Product-Analytics
-Supabase:     UrbanStyle
-NotebookLM:   UrbanStyle Product Analytics
+Suhtluskanal: Google Workspace Chat
+GitHub repo:  urbanstyle-Sales-Analytics
+Supabase:     UrbanStyle sales analytics team
+NotebookLM:   UrbanStyle Sales Analytics
 
 KOKKULEPPED:
 1. Kuidas me üksteist aitame, kui keegi jääb kinni?
-   kirjutame chatisыe ja vastame 
+   Kirjutame tiimi chatti ja vastame esimesel võimalusel, et probleem kiiresti lahendada.
 2. Mis kell me kohtume väljaspool sessioone (kui üldse)?
-   esmaspäevast kolmapäevati kell 12:00
+   Kohtume vajadusel **esmaspäevast kolmapäevani kell 12:00**.
 3. Kuidas me jagame faile?
-   github ja Power BL kaudu
+   Jagame ja hoiame faile **GitHubi** ning **Power BI** kaudu.
 
 ROLLIDE ROTATSIOON:
 Nädal 1: A=GitHub Repo Seadistaja B=Supabase Seadistaja C=NotebookLM Seadistaja D=Team Charter Koostaja
